@@ -1,0 +1,118 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Build Dashboard",
+      "description": "Create income tracker UI",
+      "priority": "High",
+      "status": "Completed"
+    },
+    {
+      "id": "c7d0",
+      "title": "Fix Payment Gateway Bug",
+      "description": "Users unable to complete transactions.\n",
+      "priority": "High",
+      "completed": {
+        "type": {},
+        "compare": null
+      },
+      "status": "Pending"
+    },
+    {
+      "id": "a1ef",
+      "title": "Deploy Production Build",
+      "description": "Release latest version to live server.",
+      "priority": "High",
+      "completed": {
+        "type": {},
+        "compare": null
+      },
+      "status": "In Progress"
+    },
+    {
+      "title": "Resolve Login API Error",
+      "description": "Backend returning 500 error intermittently.",
+      "priority": "High",
+      "completed": {
+        "type": {},
+        "compare": null
+      },
+      "id": "2d59"
+    },
+    {
+      "id": "a0a7",
+      "title": "Create Analytics Dashboard UI",
+      "description": "Add charts and overview section.",
+      "priority": "Medium",
+      "completed": {
+        "type": {},
+        "compare": null
+      }
+    },
+    {
+      "id": "044e",
+      "title": "Optimize Database Queries",
+      "description": "Improve performance of task listing API.",
+      "priority": "Medium",
+      "completed": {
+        "type": {},
+        "compare": null
+      },
+      "status": "In Progress"
+    },
+    {
+      "id": "542b",
+      "title": "Add Dark/Light Theme Toggle",
+      "description": "Improve UI customization.",
+      "priority": "Medium",
+      "completed": {
+        "type": {},
+        "compare": null
+      },
+      "status": "Completed"
+    },
+    {
+      "id": "6d1b",
+      "title": "Refactor TaskItem Component",
+      "description": "Improve code readability.",
+      "priority": "Low",
+      "completed": {
+        "type": {},
+        "compare": null
+      }
+    },
+    {
+      "id": "8877",
+      "title": "Write Unit Tests for Task Module",
+      "description": "Increase code coverage.",
+      "priority": "Low",
+      "completed": {
+        "type": {},
+        "compare": null
+      },
+      "status": "In Progress"
+    },
+    {
+      "id": "066a",
+      "title": "Update README Documentation",
+      "description": "Add setup and deployment steps.",
+      "priority": "Low",
+      "completed": {
+        "type": {},
+        "compare": null
+      },
+      "status": "Completed"
+    },
+    {
+      "title": "Bugs fixing dashboard",
+      "description": "Bugs in developer code and as well in db",
+      "priority": "Medium",
+      "completed": {
+        "type": {},
+        "compare": null
+      },
+      "id": "db78"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
